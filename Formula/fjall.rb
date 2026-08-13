@@ -1,8 +1,8 @@
 class Fjall < Formula
   desc "Cloud infrastructure CLI for AWS — deploy, manage, and monitor"
   homepage "https://fjall.io"
-  url "https://registry.npmjs.org/fjall/-/fjall-10.1.3.tgz"
-  sha256 "43738e4aa1ebc10ef628fa093122840cb327ca70218cfc96914a710f7e207e60"
+  url "https://registry.npmjs.org/fjall/-/fjall-11.0.0.tgz"
+  sha256 "d81bac8fa9bc081b33030c438d5edda14bd4919a2b70344b46be988c8fcdb14e"
   license "MIT"
 
   depends_on "node"
